@@ -1,7 +1,7 @@
 Based in (https://angular.io)
 
 ## Angular 8
-A basic online store using
+A basic online store
 
 ## Installation and Usage
 
